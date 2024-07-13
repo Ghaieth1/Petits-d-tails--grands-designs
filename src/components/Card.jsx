@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import swords from '../Images/swords.png';
 import dot from '../Images/dot.png';
+import Menu from './Menu';
 
 const Card = ({ img, title }) => {
   const [showMenu, setShowMenu] = useState(false);
