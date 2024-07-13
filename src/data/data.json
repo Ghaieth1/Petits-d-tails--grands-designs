@@ -2,15 +2,15 @@
   "cards": [
     {
       "title": "Raycast Wallpaper #1",
-      "image": "/raycast_bg_1.png"
-    },
-    {
-      "title": "Raycast Wallpaper #2",
       "image": "/raycast_bg_2.png"
     },
     {
-      "title": "Raycast Wallpaper #3",
+      "title": "Raycast Wallpaper #2",
       "image": "/raycast_bg_3.png"
+    },
+    {
+      "title": "Raycast Wallpaper #3",
+      "image": "/raycast_bg_1.png"
     }
   ],
   "menu": [

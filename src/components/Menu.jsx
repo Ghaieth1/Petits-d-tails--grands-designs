@@ -1,6 +1,6 @@
 import React from 'react';
 import data from '../data/data.json';
-import MenuLi from './Layout';
+import Layout from './Layout';
 import { motion } from 'framer-motion';
 
 export default function Menu() {
@@ -14,7 +14,7 @@ export default function Menu() {
     >
       <ul className='menu'>
         {data.menu.map((li, i) => (
-          <MenuLi
+          <Layout
             key={i}
             delay={li.delay}
             icon={li.icon}
